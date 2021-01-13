@@ -1,0 +1,6 @@
+<div class="friend2title">
+    <label for="url">Add points:</label>
+</div> 
+<div class="friend2field">
+    <input name="state" type="text" id="state" maxlength="150">
+</div>
